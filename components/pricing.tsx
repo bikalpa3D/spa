@@ -43,7 +43,7 @@ export function Pricing() {
       <div className="text-center mb-12">
         <h2 className="text-3xl font-bold mb-4">Choose The Best Plan</h2>
         <p className="text-zinc-400">
-          Choose a plan that's right for your fitness journey. Simple pricing & no hidden charges.
+          Choose a plan that&apos;s right for your fitness journey. Simple pricing & no hidden charges.
         </p>
       </div>
       <div className="grid md:grid-cols-3 gap-8">

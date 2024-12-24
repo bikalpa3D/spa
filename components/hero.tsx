@@ -18,7 +18,7 @@ export function Hero() {
             <Button size="lg" variant="destructive">
               Get Started
             </Button>
-            <Button size="lg" variant="outline" className="gap-2">
+            <Button size="lg" className="gap-2 bg-white text-black">
               <Play className="w-4 h-4" />
               Watch Video
             </Button>
